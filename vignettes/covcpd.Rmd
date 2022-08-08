@@ -19,7 +19,7 @@ knitr::opts_chunk$set(
 For single-cell RNA sequencing data with continuous or ambiguous cell states, we develop a covariance-based change point detection procedure to infer the discrete subgroups by utilizing the continuous pseudotime of single cells. Little research
 suggests whether and how well the existing multivariate change point detection methods work for scRNA-seq data. Hence, popular existing methods are first benchmarked and evaluated in the simulation study and are shown to be powered for detecting mean but not covariance changes. We then propose the algorithm covcpd (Covariance Structure Change Point Detection), which hierarchically partitions single-cell samples into homogeneous network groups by utilizing a covariance equality testing statistic.
 
-![Overview](covcpd_F1.PNG){width=80%}
+![Overview](covcpd_F1.png){width=80%}
 
 ## Installation
 

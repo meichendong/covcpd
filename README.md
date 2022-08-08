@@ -19,7 +19,7 @@ hierarchically partitions single-cell samples into homogeneous network
 groups by utilizing a covariance equality testing statistic.
 
 <figure>
-<img src="vignettes/covcpd_F1.PNG" style="width:80.0%" alt="Overview" />
+<img src="vignettes/covcpd_F1.png" style="width:80.0%" alt="Overview" />
 <figcaption aria-hidden="true">Overview</figcaption>
 </figure>
 
